@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @luhbarbalho
-- 👀 I’m interested in aestethic spaces
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi! I’m @luhbarbalho.
+- 👀 I’m interested in my dogs, my cat, learning about new technologies, aestethic spaces and boba tea.
+- 🌱 I’m currently learning Javascript, Bootstrap and ReactJS
+- 📫 You can reach me on my linkedIn page - https://www.linkedin.com/in/luizabarbalho-548718b6/
 
 <!---
 luhbarbalho/luhbarbalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
